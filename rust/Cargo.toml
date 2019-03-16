@@ -1,0 +1,10 @@
+[package]
+authors = ["Simon Repp <simon@fdpl.io>"]
+edition = "2018"
+license = "MIT"
+name = "enors"
+readme = "README.md"
+repository = "https://github.com/eno-lang/enors"
+version = "0.0.0"
+
+[dependencies]
